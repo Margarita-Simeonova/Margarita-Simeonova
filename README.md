@@ -18,7 +18,7 @@ API Testing
 
 SQL Testing
 
-Test Automation with Python
+Test Automation with Python, JS and C#
 
 ## 🛠 Tools & Technologies
 
@@ -55,7 +55,7 @@ Bug Reports
 API testing using Postman collections and test scenarios.
 
 🔹 Test Automation Project
-Basic automated tests using Python.
+Basic automated tests using Python, JS and C#.
 
 📚 Currently Learning
 
