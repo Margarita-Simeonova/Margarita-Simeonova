@@ -67,6 +67,13 @@ Test Automation with Selenium
 
 CI/CD basics for QA
 
+## QA Portfolio Projects
+
+🔹 Web Application Testing Project  
+🔹 API Testing with Postman  
+🔹 Bug Reports Portfolio  
+🔹 Test Automation with Python
+
 # 📫 Connect with me
 
 ## LinkedIn: https://www.linkedin.com/in/margarita-simeonova-27249778/
