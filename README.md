@@ -18,6 +18,8 @@ API Testing
 
 SQL Testing
 
+Unit Testing with Visual Studio, Visual Studio Code and PyCharm
+
 Test Automation with Python, JS and C#
 
 ## 🛠 Tools & Technologies
