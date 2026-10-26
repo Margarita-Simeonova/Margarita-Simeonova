@@ -1,72 +1,66 @@
-Hi 👋 I'm Margarita
-🎯 Software QA Engineer focused on delivering high-quality and reliable software through structured testing.
+# Hi 👋 I'm Margarita
 
-🧪 QA Skills:
-Manual Testing
+🎯 **Software QA Engineer** focused on delivering high-quality and reliable software through structured testing.
 
-Test Case Design
+---
 
-Test Planning
+## 🧪 QA Skills
 
-Bug Reporting
+- Manual Testing  
+- Test Case Design  
+- Test Planning  
+- Bug Reporting  
+- Test Scenarios & Checklists  
+- API Testing  
+- SQL Testing  
+- Test Automation with Python  
 
-Test Scenarios & Checklists
+---
 
-API Testing
+## 🛠 Tools & Technologies
 
-SQL Testing
+- Jira  
+- Postman  
+- Git & GitHub  
+- Chrome DevTools  
+- MySQL / SQL  
+- Python  
+- Selenium (learning / practicing)
 
-Unit Testing with Visual Studio, Visual Studio Code and PyCharm
+---
 
-Test Automation with Python, JS and C#
+## 📂 QA Portfolio Projects
 
-🛠 Tools & Technologies
-Jira
-
-Postman
-
-Git & GitHub
-
-Chrome DevTools
-
-MySQL / SQL
-
-Python
-
-Selenium (learning / practicing)
-
-📂 QA Portfolio Projects
 Here are some of my testing projects:
 
-🔹 Web Application Testing Manual testing project including:
+🔹 **Web Application Testing**  
+Manual testing project including:
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Bug Reports
 
-Test Plan
+🔹 **API Testing Project**  
+API testing using Postman collections and test scenarios.
 
-Test Scenarios
+🔹 **Test Automation Project**  
+Basic automated tests using Python.
 
-Test Cases
+---
 
-Bug Reports
+## 📚 Currently Learning
 
-🔹 API Testing Project API testing using Postman collections and test scenarios.
+- Advanced API Testing  
+- Test Automation with Selenium  
+- CI/CD basics for QA
 
-🔹 Test Automation Project Basic automated tests using Python, JS and C#.
+---
 
-📚 Currently Learning
+## 📫 Connect with me
 
-Advanced API Testing
+- LinkedIn: [add your LinkedIn link]  
+- GitHub: [your GitHub profile link]
 
-Test Automation with Selenium
+---
 
-CI/CD basics for QA
-
-QA Portfolio Projects
-🔹 Web Application Testing Project
-🔹 API Testing with Postman
-🔹 Bug Reports Portfolio
-🔹 Test Automation with Python
-
-📫 Connect with me
-LinkedIn: https://www.linkedin.com/in/margarita-simeonova-27249778/
-Email: margito.sl@gmail.com
 ⭐ I am passionate about improving software quality and continuously developing my QA skills.
