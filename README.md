@@ -58,8 +58,8 @@ Basic automated tests using Python.
 
 ## 📫 Connect with me
 
-- LinkedIn: [add your LinkedIn link]  
-- GitHub: [your GitHub profile link]
+- LinkedIn: [[add your LinkedIn link](https://www.linkedin.com/in/margarita-simeonova-27249778/)
+- Email: [margito.sl@gmail.com](mailto:margito.sl@gmail.com)
 
 ---
 
