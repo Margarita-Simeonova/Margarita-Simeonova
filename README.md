@@ -13,7 +13,7 @@
 - Test Scenarios & Checklists  
 - API Testing  
 - SQL Testing  
-- Test Automation with Python  
+- Test Automation with Python, C#, JS
 
 ---
 
@@ -24,7 +24,9 @@
 - Git & GitHub  
 - Chrome DevTools  
 - MySQL / SQL  
-- Python  
+- Python
+- C#
+- JS
 - Selenium (learning / practicing)
 
 ---
