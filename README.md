@@ -20,6 +20,7 @@ Chrome DevTools
 MySQL / SQL
 Python
 Selenium (learning / practicing)
+
 📂 QA Portfolio Projects
 
 Here are some of my testing projects (in progress):
@@ -39,6 +40,7 @@ Bug Reports
 Advanced API Testing
 Test Automation with Selenium
 CI/CD basics for QA
+
 📫 Connect with me
 
 LinkedIn: linkedin.com/in/margarita-simeonova-27249778 
