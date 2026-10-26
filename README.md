@@ -77,6 +77,6 @@ CI/CD basics for QA
 # 📫 Connect with me
 
 ## LinkedIn: https://www.linkedin.com/in/margarita-simeonova-27249778/
-## Email: margito.sl@gmail.com
+## Email: [margito.sl@gmail.com](mailto:margito.sl@gmail.com)
 
 ⭐ I am passionate about improving software quality and continuously developing my QA skills.
