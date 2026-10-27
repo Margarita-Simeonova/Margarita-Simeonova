@@ -66,3 +66,4 @@ Basic automated tests using Python.
 ---
 
 ⭐ I am passionate about improving software quality and continuously developing my QA skills.
+Open to Junior QA roles from January 2027
